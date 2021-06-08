@@ -13,3 +13,8 @@ a:hover {
 .dropdown-toggle, .dropdown-item {
     cursor: pointer;
 }
+
+.active {
+    font-weight: 600;
+}
+
